@@ -1,0 +1,23 @@
+{
+  "name": "swapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatieDeMet/swapi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KatieDeMet/swapi/issues"
+  },
+  "homepage": "https://github.com/KatieDeMet/swapi#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
